@@ -1,6 +1,6 @@
 # About Me
 My love of advanced technology and problem solving led me to earn my CS master degree. 
-For now, I have interest and experience in Python and Linux field, 
+For now, I have interest and experience in Python and Linux related roles, 
 and if there is a chance I would also like to explore interests in other fields of software engineering. 
 My short-term traget is to be a full-time software engineer with solid foundations. 
 I am looking forward to continuing my career soon.
